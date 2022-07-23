@@ -1,2 +1,2 @@
-# pavandev
- My Portfolio Website showcasing my journey, skills, projects and everything else about me.
+# Pavan's Portfolio
+The portfolio website provides a general description, overview and introduction about myself, education, skills, projects and contact details.
